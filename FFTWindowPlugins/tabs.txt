@@ -1,0 +1,6 @@
+File
+Exports
+Read Modes
+Plugins
+About
+Help
